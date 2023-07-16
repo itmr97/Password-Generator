@@ -1,5 +1,4 @@
     # Password Genertor
-    #### Video Demo:  https://youtu.be/kHCB05_6NuU
     #### Description:
     The password generator software will generate random passwords based on user-specified criteria. It will allow users to define the length of the password and choose whether to include numbers, symbols, uppercase letters, and lowercase letters. The software will generate a unique password each time it is executed.
 
